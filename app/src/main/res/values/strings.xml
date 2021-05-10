@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spree</string>
+    <string name="shared_preferences_file">me.dhw.spree.taskdata</string>
+    <string name="add_item">Add Item</string>
+    <string name="done">✔</string>
+    <string name="task_name">Task name</string>
+    <string name="cancel">✘</string>
+    <string name="notification_channel_name">Daily reminder</string>
+</resources>
